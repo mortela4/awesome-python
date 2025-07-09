@@ -537,6 +537,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [returns](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 * [cytoolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
 * [toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
+* [OVLD](https://github.com/breuleux/ovld) - Multiple dispatch and advanced overloading of functions via decorators.
+
 
 ## GUI Development
 
