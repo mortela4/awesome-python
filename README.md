@@ -53,6 +53,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Job Scheduler](#job-scheduler)
     - [Logging](#logging)
     - [Machine Learning](#machine-learning)
+    - [Meta-programming](#meta-programming)
+    - [Microsoft Windows](#mswindows)
     - [Miscellaneous](#miscellaneous)
     - [Natural Language Processing](#natural-language-processing)
     - [Network Virtualization](#network-virtualization)
@@ -90,8 +92,18 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [WebSocket](#websocket)
     - [WSGI Servers](#wsgi-servers)
 - [Resources](#resources)
+    - [Blogs](#blogs)
+    - [Articles](#articles)
     - [Newsletters](#newsletters)
     - [Podcasts](#podcasts)
+- [Tools](#tools)
+    - [Project Scaffolding](#project-setup) 
+    - [Code Analysis](#code-analysis)
+    - [Debug](#debug)
+    - [Modeling](#modeling)
+    - [Low-Code](#low-code)
+    - [No-Code](#no-code)
+    - [Documentation Tools](#autodoc)
 - [Contributing](#contributing)
 
 ---
@@ -709,6 +721,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 * [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 
+## Metaprogramming
+
+Metaprogramming, templating and 'higher-order' functions.
+
+[Metap](https://github.com/baziotis/metap) - generate new code from template, or compile-time modify existing one.
+[TransFunctions](https://github.com/pomponchik/transfunctions) - use single template in any of sync/async/generator context.
+
+
 ## Microsoft Windows
 
 *Python programming on Microsoft Windows.*
@@ -1178,6 +1198,17 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 # Resources
 
 Where to discover learning resources or new Python libraries.
+See especially:
+* [LibHunt](https://libhunt.com) - find libs in 'any' language ...
+
+
+## Blogs
+
+
+## Articles
+
+* [Py-patterns to UNLEARN!](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part1) - do NOT use these design patterns in Python!
+
 
 ## Newsletters
 
@@ -1193,6 +1224,46 @@ Where to discover learning resources or new Python libraries.
 * [Talk Python To Me](https://talkpython.fm/)
 * [Python Test](https://podcast.pythontest.com/)
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+
+
+# Tools
+
+Various development tools, not necessarily restricted to Python (e.g. GDB etc.).
+
+## Project Scaffolding
+Tools for project/workspace generation and/or maintenance.
+
+* [Copier](https://github.com/copier-org/copier)
+
+
+## Code Analysis
+
+* [Pyleak](https://github.com/deepankarm/pyleak) - detect leaks from asyncio-tasks and threads.
+
+
+## Debug
+
+* [Python's remote debug protocol](https://rtpg.co/2025/06/28/checking-out-sys-remote-exec) - article on rdbg-protocol from (C)Python 3.14 on.
+
+
+## Modeling and Code-generation
+
+* [Eclipse 'Comma'](https://eclipse.dev/comma/) - model and debug transactional models and state-machines (e.g. find possible race-conditions etc.).
+
+
+## Low-Code
+
+
+## No-Code
+AI-based code generators using simple prompts or even drawings.
+
+* [AutoCoder](https://autocoder.cc) - one of the better so far ... (mid-2025)
+
+
+## Documentation Tools
+
+* [Sokrates](https://www.sokrates.dev/) - analyse and document complexity and composition of multi-language/heterogenous projects (e.g. Firefox, Linux, and generally LARGE projects).
+
 
 # Contributing
 
