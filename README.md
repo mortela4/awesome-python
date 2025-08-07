@@ -1221,6 +1221,7 @@ See especially:
 ## Articles
 
 * [Py-patterns to UNLEARN!](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part1) - do NOT use these design patterns in Python!
+* [Signals for Python](https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers) - signals for state-management in Python-based webapps/frontends etc.
 
 
 ## Newsletters
