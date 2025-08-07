@@ -71,6 +71,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Robotics](#robotics)
     - [RPC Servers](#rpc-servers)
     - [Science](#science)
+        - [Autonomous Systems](#autonomous-systems) 
     - [Search](#search)
     - [Serialization](#serialization)
     - [Serverless Frameworks](#serverless-frameworks)
@@ -929,6 +930,11 @@ Metaprogramming, templating and 'higher-order' functions.
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 * [Zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 
+### Autonomous Systems
+* [AutonomousVision](https://github.com/autonomousvision) - lots of ACV libs.
+* [Physical-Intelligence](https://github.com/Physical-Intelligence) - lots of AR/VR libs.
+
+
 ## Search
 
 *Libraries and software for indexing and performing search queries on data.*
@@ -1200,6 +1206,13 @@ Metaprogramming, templating and 'higher-order' functions.
 Where to discover learning resources or new Python libraries.
 See especially:
 * [LibHunt](https://libhunt.com) - find libs in 'any' language ...
+
+
+## Example Code
+
+* [AI Experiments](https://github.com/mhdawson/python-ai-experimentation) - AI experimentation using LLAMA-Stack.
+* [DevOps kata](https://github.com/Osomudeya/side-devops-projects) - DevOps side projects using Azure cloud.
+
 
 
 ## Blogs
