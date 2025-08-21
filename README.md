@@ -98,6 +98,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Newsletters](#newsletters)
     - [Podcasts](#podcasts)
 - [Tools](#tools)
+    - [Testing](#testing) 
     - [Project Scaffolding](#project-setup) 
     - [Code Analysis](#code-analysis)
     - [Debug](#debug)
@@ -145,13 +146,13 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Asynchronous Programming
 
-*Libraries for asynchronous, concurrent and parallel execution. Also see [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).*
+Libraries for asynchronous, concurrent and parallel execution. Also see [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio).*
 
 * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
     - [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio)
 * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
 * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
-* [trio](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O.
+* [trio](https://github.com/python-trio/trio) - A friendly library for async concurrency and I/O. See also [Readthedocs](https://trio.readthedocs.io/en/stable/index.html).
 * [twisted](https://github.com/twisted/twisted) - An event-driven networking engine.
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 * [eventlet](https://github.com/eventlet/eventlet) - Asynchronous framework with WSGI support.
@@ -466,6 +467,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * Stream Processing
     * [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     * [streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
+    * [AG2AI](https://github.com/ag2ai/faststream) - connect message queues easily.
 
 ## Distribution
 
@@ -1248,6 +1250,12 @@ See especially:
 # Tools
 
 Various development tools, not necessarily restricted to Python (e.g. GDB etc.).
+
+## Testing
+
+### Webdev-testing
+* [Flower](https://github.com/mher/flower) - Control and monitor Celery-based browser testing.
+
 
 ## Project Scaffolding
 Tools for project/workspace generation and/or maintenance.
