@@ -5,6 +5,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python](#awesome-python)
+    - [AI](#ai-and-llm) 
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [ASGI Servers](#asgi-servers)
@@ -109,6 +110,17 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Contributing](#contributing)
 
 ---
+
+## AI
+
+Covers AI, including neural networks and LLMs.
+
+### LLMs
+* [LangExtract](https://github.com/google/langextract) - extract document (e.g. notes, reports) essentials *without* changing document text!
+
+
+### Neural Networks
+
 
 ## Admin Panels
 
@@ -1276,7 +1288,7 @@ Tools for project/workspace generation and/or maintenance.
 ## Modeling and Code-generation
 
 * [Eclipse 'Comma'](https://eclipse.dev/comma/) - model and debug transactional models and state-machines (e.g. find possible race-conditions etc.).
-
+* [F*](https://fstar-lang.org/) - the 'Fstar' programming language for formal verification, with its 'Low' dialect that can generate 'C'-code from 'F*'-code.
 
 ## Low-Code
 
@@ -1285,6 +1297,7 @@ Tools for project/workspace generation and/or maintenance.
 AI-based code generators using simple prompts or even drawings.
 
 * [AutoCoder](https://autocoder.cc) - one of the better so far ... (mid-2025)
+* [ChatGLM](https://github.com/zai-org) - home to GLM-x.y models and 'ChatGLM' front-end (see: [Online GLMchat](https://glm45.org/) )
 
 
 ## Documentation Tools
