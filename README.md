@@ -111,7 +111,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ---
 
-## AI
+## AI-and-LLM
 
 Covers AI, including neural networks and LLMs.
 
