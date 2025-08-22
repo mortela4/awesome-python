@@ -1285,10 +1285,13 @@ Tools for project/workspace generation and/or maintenance.
 * [Python's remote debug protocol](https://rtpg.co/2025/06/28/checking-out-sys-remote-exec) - article on rdbg-protocol from (C)Python 3.14 on.
 
 
-## Modeling and Code-generation
+## Modeling
+
+This covers UML-related libraries and tools, formal verification and code-generation.
 
 * [Eclipse 'Comma'](https://eclipse.dev/comma/) - model and debug transactional models and state-machines (e.g. find possible race-conditions etc.).
 * [F*](https://fstar-lang.org/) - the 'Fstar' programming language for formal verification, with its 'Low' dialect that can generate 'C'-code from 'F*'-code.
+
 
 ## Low-Code
 
