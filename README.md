@@ -5,7 +5,7 @@ An opinionated list of awesome Python frameworks, libraries, software and resour
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python](#awesome-python)
-    - [AI](#ai-and-llm) 
+    - [AI-and-LLM](#ai-and-llm) 
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
     - [ASGI Servers](#asgi-servers)
