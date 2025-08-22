@@ -94,6 +94,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [WebSocket](#websocket)
     - [WSGI Servers](#wsgi-servers)
 - [Resources](#resources)
+    - [Cheatsheets](#cheatsheets)
+    - [Example Code](#example-code)
     - [Blogs](#blogs)
     - [Articles](#articles)
     - [Newsletters](#newsletters)
@@ -1231,7 +1233,7 @@ See especially:
 
 * [AI Experiments](https://github.com/mhdawson/python-ai-experimentation) - AI experimentation using LLAMA-Stack.
 * [DevOps kata](https://github.com/Osomudeya/side-devops-projects) - DevOps side projects using Azure cloud.
-
+* [SensorDashboard](https://github.com/Boadzie/sensor-dashboard) - Use pure Py + HTMX for live, realtime-graph dashboards.
 
 
 ## Blogs
