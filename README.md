@@ -93,6 +93,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Web Frameworks](#web-frameworks)
     - [WebSocket](#websocket)
     - [WSGI Servers](#wsgi-servers)
+- [MicroPython](#micropython)
+    - [uPy-Libraries](#upy-libs)
 - [Resources](#resources)
     - [Cheatsheets](#cheatsheets)
     - [Example Code](#example-code)
@@ -171,6 +173,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 * [eventlet](https://github.com/eventlet/eventlet) - Asynchronous framework with WSGI support.
 * [gevent](https://github.com/gevent/gevent) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
+* [TinyIO](https://github.com/patrick-kidger/tinyio) - dead simple AsyncIO event-loop.
+
 
 ## Audio
 
@@ -1216,6 +1220,14 @@ Metaprogramming, templating and 'higher-order' functions.
 * [uwsgi](https://uwsgi-docs.readthedocs.io/en/latest/) - A project aims at developing a full stack for building hosting services, written in C.
 * [waitress](https://github.com/Pylons/waitress) - Multi-threaded, powers Pyramid.
 * [werkzeug](https://github.com/pallets/werkzeug) - A WSGI utility library for Python that powers Flask and can easily be embedded into your own projects.
+
+
+## MicroPython
+
+### uPy-Libraries
+* [uPy-Collection](https://github.com/TimHanewich/MicroPython-Collection) - bunch of device-drivers etc. for uPy.
+
+
 
 # Resources
 
