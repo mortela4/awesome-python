@@ -94,7 +94,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [WebSocket](#websocket)
     - [WSGI Servers](#wsgi-servers)
 - [MicroPython](#micropython)
-    - [uPy-Libraries](#upy-libs)
+    - [uPy-Libraries](#upy-libraries)
 - [Resources](#resources)
     - [Cheatsheets](#cheatsheets)
     - [Example Code](#example-code)
