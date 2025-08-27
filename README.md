@@ -748,6 +748,7 @@ Metaprogramming, templating and 'higher-order' functions.
 
 [Metap](https://github.com/baziotis/metap) - generate new code from template, or compile-time modify existing one.
 [TransFunctions](https://github.com/pomponchik/transfunctions) - use single template in any of sync/async/generator context.
+[attrs](https://www.attrs.org/en/stable) - Generate Py-classes automagically w. no boilerplate code!
 
 
 ## Microsoft Windows
@@ -1190,7 +1191,8 @@ Metaprogramming, templating and 'higher-order' functions.
 
 ## Web Frameworks
 
-*Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
+* Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
+    * [Cement](https://github.com/datafolklabs/cement) - Actively developed framework since 2009(!), for CLI-apps and backend systems.
 
 * Synchronous
     * [django](https://github.com/django/django) - The most popular web framework in Python.
@@ -1246,6 +1248,7 @@ See especially:
 * [AI Experiments](https://github.com/mhdawson/python-ai-experimentation) - AI experimentation using LLAMA-Stack.
 * [DevOps kata](https://github.com/Osomudeya/side-devops-projects) - DevOps side projects using Azure cloud.
 * [SensorDashboard](https://github.com/Boadzie/sensor-dashboard) - Use pure Py + HTMX for live, realtime-graph dashboards.
+* [AI-in-action](https://github.com/ed-donner/action) - Demo of 'Agentic AI' w. Python.
 
 
 ## Blogs
