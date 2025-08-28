@@ -1254,6 +1254,7 @@ See especially:
 
 ## Blogs
 * [Josh Cannon](https://joshcannon.me/) - Mostly about Python namespaces and packaging.
+* [KDNuggets](https://www.kdnuggets.com/news/index.html) - Mostly Py-related (but also Rust +++).
 
 
 ## Articles
