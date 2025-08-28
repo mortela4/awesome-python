@@ -1253,6 +1253,7 @@ See especially:
 
 
 ## Blogs
+* [Josh Cannon](https://joshcannon.me/) - Mostly about Python namespaces and packaging.
 
 
 ## Articles
