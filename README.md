@@ -209,6 +209,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * JWT
     * [pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python.
     * [python-jose](https://github.com/mpdavis/python-jose/) - A JOSE implementation in Python.
+* Others
+    * [Biscuit](https://www.biscuitsec.org/) - Authentication and access management in a 'logical' language (=SDL?).
 
 ## Build Tools
 
