@@ -488,6 +488,10 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
     * [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     * [streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
     * [AG2AI](https://github.com/ag2ai/faststream) - connect message queues easily.
+* Distributed Messaging and Publish-Subscribe
+    * [Eclipse "eCAL"](https://eclipse-ecal.github.io/ecal/stable/index.html) - automotive-focused (part of EclipseSDV), secure pub-sub broker à la MQTT and ROS/DDS.
+
+
 
 ## Distribution
 
