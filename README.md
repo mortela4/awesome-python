@@ -1323,12 +1323,15 @@ This covers UML-related libraries and tools, formal verification and code-genera
 
 ## Low-Code
 
+* [BESSER-PEARL](https://github.com/besser-pearl) - "Build Better Smart SW Faster" = low-code, model-to-API tool using UML, code, or in-browser graphical model-editor.
+
 
 ## No-Code
 AI-based code generators using simple prompts or even drawings.
 
 * [AutoCoder](https://autocoder.cc) - one of the better so far ... (mid-2025)
 * [ChatGLM](https://github.com/zai-org) - home to GLM-x.y models and 'ChatGLM' front-end (see: [Online GLMchat](https://glm45.org/) )
+* [Free AI Chat](https://openrouter.ai/chat) - free access to AI-chat using most any LLM.
 
 
 ## Documentation Tools
