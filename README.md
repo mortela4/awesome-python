@@ -121,6 +121,7 @@ Covers AI, including neural networks and LLMs.
 
 ### LLMs
 * [LangExtract](https://github.com/google/langextract) - extract document (e.g. notes, reports) essentials *without* changing document text!
+* [MiniCPM](https://github.com/OpenBMB/MiniCPM) - opensource LLM for resource-constrained use (i.e. edge/embedded). Training data < 1/millionth of them really large models!
 
 
 ### Neural Networks
@@ -1256,6 +1257,7 @@ See especially:
 * [DevOps kata](https://github.com/Osomudeya/side-devops-projects) - DevOps side projects using Azure cloud.
 * [SensorDashboard](https://github.com/Boadzie/sensor-dashboard) - Use pure Py + HTMX for live, realtime-graph dashboards.
 * [AI-in-action](https://github.com/ed-donner/action) - Demo of 'Agentic AI' w. Python.
+* [System Architecting using AI](https://github.com/Alexanderdunlop/ai-architecture-prompts) - architecting webapps using AI.
 
 
 ## Blogs
