@@ -1324,6 +1324,7 @@ This covers UML-related libraries and tools, formal verification and code-genera
 ## Low-Code
 
 * [BESSER-PEARL](https://github.com/besser-pearl) - "Build Better Smart SW Faster" = low-code, model-to-API tool using UML, code, or in-browser graphical model-editor.
+* [LionWeb](https://lionweb.io/) - 'Small-Language' modeling tool. To construct small SDLs.
 
 
 ## No-Code
