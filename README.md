@@ -99,6 +99,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Cheatsheets](#cheatsheets)
     - [Example Code](#example-code)
     - [Blogs](#blogs)
+    - [Tutorials](#tutorials)
     - [Articles](#articles)
     - [Newsletters](#newsletters)
     - [Podcasts](#podcasts)
@@ -1263,6 +1264,9 @@ See especially:
 ## Blogs
 * [Josh Cannon](https://joshcannon.me/) - Mostly about Python namespaces and packaging.
 * [KDNuggets](https://www.kdnuggets.com/news/index.html) - Mostly Py-related (but also Rust +++).
+
+## Tutorials
+* [PythonKoans](https://pythonkoans.substack.com/) - in-depth tutorials on core Py-lang specifics.
 
 
 ## Articles
