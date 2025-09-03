@@ -38,6 +38,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Downloader](#downloader)
     - [Editor Plugins and IDEs](#editor-plugins-and-ides)
     - [Email](#email)
+    - [Embedded and IoT](#embedded)
     - [Environment Management](#environment-management)
     - [File Manipulation](#file-manipulation)
     - [Functional Programming](#functional-programming)
@@ -550,6 +551,17 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * Others
     * [flanker](https://github.com/mailgun/flanker) - An email address and Mime parsing library.
     * [mailer](https://github.com/marrow/mailer) - High-performance extensible mail delivery framework.
+
+
+## Embedded and IoT
+
+### Embedded
+Libraries for embedded platforms, or edge-computing, but not using MicroPython.
+
+### IoT
+Libraries directly related to IoT (Internet-of-Things) 
+* [AVNET IoT](https://github.com/avnet-iotconnect/iotc-yocto-python-sdk/tree/hardknott) - Mostly a Yocto layer to support Amazon's AWS cloud on AvnetEmbedded's (Linux) HW-platforms.
+
 
 ## Environment Management
 
