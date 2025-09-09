@@ -1215,7 +1215,7 @@ Metaprogramming, templating and 'higher-order' functions.
 
 * Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
     * [Cement](https://github.com/datafolklabs/cement) - Actively developed framework since 2009(!), for CLI-apps and backend systems.
-
+    * [ShopYo](https://shopyo.readthedocs.io/en/latest/) - "ShopYo" web-fwk, especially for E-Commerce.
 * Synchronous
     * [django](https://github.com/django/django) - The most popular web framework in Python.
         * [awesome-django](https://github.com/shahraizali/awesome-django)
@@ -1281,6 +1281,8 @@ See especially:
 
 ## Tutorials
 * [PythonKoans](https://pythonkoans.substack.com/) - in-depth tutorials on core Py-lang specifics.
+* [LevelUp GitConnected](https://levelup.gitconnected.com) - MQTT, Grafana, monitoring etc.etc.
+* [Sicara](https://github.com/sicara/dvc-streamlit-example) - Demo of 'DataVersioningControl' for AI/MLops.
 
 
 ## Articles
