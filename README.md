@@ -441,6 +441,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * Profiler
     * [py-spy](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
     * [vprof](https://github.com/nvdv/vprof) - Visual Python profiler.
+* Embedded/bare-metal
+    * [Metal.GDB](https://github.com/metal-ci/test) - Python GDB bindings for very low-level (unit-)testing (e.g. on 'bare-metal' system, or - at register-level).
 * Others
     * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - Display various debug information for Django.
     * [flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
