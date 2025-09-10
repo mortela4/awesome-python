@@ -73,7 +73,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Robotics](#robotics)
     - [RPC Servers](#rpc-servers)
     - [Science](#science)
-        - [Autonomous Systems](#autonomous-systems) 
+        - [Autonomous Systems](#autonomous-systems)
+        - [DataFrame-libraries](#dataframe-libs)
     - [Search](#search)
     - [Serialization](#serialization)
     - [Serverless Frameworks](#serverless-frameworks)
@@ -358,6 +359,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
 * [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 * [optimus](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
+* [Frame-Search](https://github.com/williambdean/frame-search) - Search for data in dataframes ... easily! (in Jupyter-notebooks etc.)
+
 
 ## Data Validation
 
@@ -972,6 +975,8 @@ Metaprogramming, templating and 'higher-order' functions.
 * [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 * [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
 * [Zipline](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
+* [PyMC](https://github.com/pymc-devs) - Bayesian Probabilistic Modeling.
+
 
 ### Autonomous Systems
 * [AutonomousVision](https://github.com/autonomousvision) - lots of ACV libs.
@@ -1163,7 +1168,7 @@ Metaprogramming, templating and 'higher-order' functions.
 
 *Libraries for parsing URLs.*
 
-* [furl](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy.
+* [furl](https://github.com/gruns/furl) - A small Python library that makes parsing and manipulating URLs easy (in a 'functional' way).
 * [purl](https://github.com/codeinthehole/purl) - A simple, immutable URL class with a clean API for interrogation and manipulation.
 * [pyshorteners](https://github.com/ellisonleao/pyshorteners) - A pure Python URL shortening lib.
 * [webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments with built-in support for popular web frameworks.
@@ -1278,6 +1283,8 @@ See especially:
 ## Blogs
 * [Josh Cannon](https://joshcannon.me/) - Mostly about Python namespaces and packaging.
 * [KDNuggets](https://www.kdnuggets.com/news/index.html) - Mostly Py-related (but also Rust +++).
+* [CodeCut.ai](https://codecut.ai/blog/) - DataScience-focused Py-blog.
+
 
 ## Tutorials
 * [PythonKoans](https://pythonkoans.substack.com/) - in-depth tutorials on core Py-lang specifics.
