@@ -1257,6 +1257,7 @@ Metaprogramming, templating and 'higher-order' functions.
 ### uPy-Libraries
 * [uPy-Collection](https://github.com/TimHanewich/MicroPython-Collection) - bunch of device-drivers etc. for uPy.
 * [Centauri](https://github.com/TimHanewich/centauri) - Multi-MCU UAV firmware written mostly in uPy.
+* [JonNordby emLearn&uPy](https://github.com/jonnor) - emLearn = ML on MCUs.
 
 
 
