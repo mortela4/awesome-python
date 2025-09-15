@@ -1335,6 +1335,7 @@ Tools for project/workspace generation and/or maintenance.
 ## Code Analysis
 
 * [Pyleak](https://github.com/deepankarm/pyleak) - detect leaks from asyncio-tasks and threads.
+* [Atlantis CRS](https://github.com/Team-Atlanta/aixcc-afc-atlantis) - "Cyber Reasoning System" (CRS) for automated security problems detection and patching in code.
 
 
 ## Debug
