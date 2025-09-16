@@ -1226,7 +1226,7 @@ Metaprogramming, templating and 'higher-order' functions.
     * [django](https://github.com/django/django) - The most popular web framework in Python.
         * [awesome-django](https://github.com/shahraizali/awesome-django)
         * [awesome-django](https://github.com/wsvincent/awesome-django)
-        * [djHTMX](https://github.com/edelvalle/djhtmx) - UI for Django-with-HTTPX
+        * [djHTMX](https://github.com/edelvalle/djhtmx) - UI components ('middleware') for Django-with-HTMX.
     * [flask](https://github.com/pallets/flask) - A microframework for Python.
         * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
     * [pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
