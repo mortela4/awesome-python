@@ -1226,6 +1226,7 @@ Metaprogramming, templating and 'higher-order' functions.
     * [django](https://github.com/django/django) - The most popular web framework in Python.
         * [awesome-django](https://github.com/shahraizali/awesome-django)
         * [awesome-django](https://github.com/wsvincent/awesome-django)
+        * [djHTMX](https://github.com/edelvalle/djhtmx) - UI for Django-with-HTTPX
     * [flask](https://github.com/pallets/flask) - A microframework for Python.
         * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
     * [pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
@@ -1241,6 +1242,8 @@ Metaprogramming, templating and 'higher-order' functions.
 * [autobahn-python](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django.
 * [websockets](https://github.com/aaugustin/websockets) - A library for building WebSocket servers and clients with a focus on correctness and simplicity.
+* [WebDataTransport](https://github.com/lemonsterfy/pywebtransport) - WebDataTransport server&client.
+
 
 ## WSGI Servers
 
@@ -1286,6 +1289,7 @@ See especially:
 * [Josh Cannon](https://joshcannon.me/) - Mostly about Python namespaces and packaging.
 * [KDNuggets](https://www.kdnuggets.com/news/index.html) - Mostly Py-related (but also Rust +++).
 * [CodeCut.ai](https://codecut.ai/blog/) - DataScience-focused Py-blog.
+* [Miguel Grinberg](https://blog.miguelgrinberg.com/) - Everything Python, from FastAPI/webdev to MicroPython!
 
 
 ## Tutorials
