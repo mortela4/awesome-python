@@ -499,7 +499,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
     * [AG2AI](https://github.com/ag2ai/faststream) - connect message queues easily.
 * Distributed Messaging and Publish-Subscribe
     * [Eclipse "eCAL"](https://eclipse-ecal.github.io/ecal/stable/index.html) - automotive-focused (part of EclipseSDV), secure pub-sub broker à la MQTT and ROS/DDS.
-
+* Modeling and Simulation of Distributed Systems
+    * [AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) - model and simulate complete, distributed back-end systems. 
 
 
 ## Distribution
@@ -1334,6 +1335,7 @@ Various development tools, not necessarily restricted to Python (e.g. GDB etc.).
 Tools for project/workspace generation and/or maintenance.
 
 * [Copier](https://github.com/copier-org/copier)
+* [Cruft](https://github.com/cruft/cruft/) - wraps Cookiecutter-template, and sets up project for build & distribution.
 
 
 ## Code Analysis
@@ -1345,6 +1347,7 @@ Tools for project/workspace generation and/or maintenance.
 ## Debug
 
 * [Python's remote debug protocol](https://rtpg.co/2025/06/28/checking-out-sys-remote-exec) - article on rdbg-protocol from (C)Python 3.14 on.
+* [MemoryGraph](https://github.com/bterwijn/memory_graph) - visualize Py-objects (and their relationship if applicable) as they are stored in memory at given point in time. VERY USEFUL!!
 
 
 ## Modeling
