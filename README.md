@@ -1373,6 +1373,7 @@ AI-based code generators using simple prompts or even drawings.
 * [AutoCoder](https://autocoder.cc) - one of the better so far ... (mid-2025)
 * [ChatGLM](https://github.com/zai-org) - home to GLM-x.y models and 'ChatGLM' front-end (see: [Online GLMchat](https://glm45.org/) )
 * [Free AI Chat](https://openrouter.ai/chat) - free access to AI-chat using most any LLM.
+* [Eye2AI](https://www.eye2.ai/) - chat with multiple AI-services in parallell, and compare results for convergence.
 
 
 ## Documentation Tools
