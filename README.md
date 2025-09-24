@@ -1338,6 +1338,9 @@ Various development tools, not necessarily restricted to Python (e.g. GDB etc.).
 ### Webdev-testing
 * [Flower](https://github.com/mher/flower) - Control and monitor Celery-based browser testing.
 
+### Network-testing
+* [Ducky](https://github.com/thecmdguy/Ducky) - Telnet/SSH/Serial terminal, SNMP-scan +++
+
 
 ## Project Scaffolding
 Tools for project/workspace generation and/or maintenance.
