@@ -1291,6 +1291,7 @@ See especially:
 * [SensorDashboard](https://github.com/Boadzie/sensor-dashboard) - Use pure Py + HTMX for live, realtime-graph dashboards.
 * [AI-in-action](https://github.com/ed-donner/action) - Demo of 'Agentic AI' w. Python.
 * [System Architecting using AI](https://github.com/Alexanderdunlop/ai-architecture-prompts) - architecting webapps using AI.
+* [AgiBot](https://github.com/AgibotTech) - Complete control-SW code and infrastructure(e.g. simulators +++) for AGIBOT's "X1" humanoid robot.
 
 
 ## Blogs
@@ -1367,6 +1368,7 @@ This covers UML-related libraries and tools, formal verification and code-genera
 
 * [Eclipse 'Comma'](https://eclipse.dev/comma/) - model and debug transactional models and state-machines (e.g. find possible race-conditions etc.).
 * [F*](https://fstar-lang.org/) - the 'Fstar' programming language for formal verification, with its 'Low' dialect that can generate 'C'-code from 'F*'-code.
+* [Coq](https://github.com/bluerock-io/alectryon) - parser and compiler for 'Coq' language, used for 'formal verification' of code functional-safety aspects.
 
 
 ## Low-Code
