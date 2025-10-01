@@ -93,6 +93,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Web Content Extracting](#web-content-extracting)
     - [Web Crawling](#web-crawling)
     - [Web Frameworks](#web-frameworks)
+    - [Web Frontend-dev](#web-frontend)
     - [WebSocket](#websocket)
     - [WSGI Servers](#wsgi-servers)
 - [MicroPython](#micropython)
@@ -991,6 +992,10 @@ Metaprogramming, templating and 'higher-order' functions.
 * [AutonomousVision](https://github.com/autonomousvision) - lots of ACV libs.
 * [Physical-Intelligence](https://github.com/Physical-Intelligence) - lots of AR/VR libs.
 
+### Math
+* [NuMethods](https://github.com/denizd1/numethods) - Classic, numerical methods 'from scratch' (i.e. in pure Python; no NumPy/SciPy involved) for e.g. educational purposes.
+* [MathFlow](https://github.com/cybergeek1943/MathFlow) - Symbolic, numerical solver à la 'SymPy', but for simple interfacing to inline computation (in Py-code). With both LaTeX and 'C'-code output.
+
 
 ## Search
 
@@ -1243,6 +1248,13 @@ Metaprogramming, templating and 'higher-order' functions.
 * Asynchronous
     * [tornado](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
 
+
+## Web Frontend-dev
+
+### Visualization and Plotting
+* [Detroit](https://github.com/bourbonut/detroit) - Python implementation of 'D3js' graphing/plotting library.
+
+
 ## WebSocket
 
 *Libraries for working with WebSocket.*
@@ -1354,6 +1366,7 @@ Tools for project/workspace generation and/or maintenance.
 
 * [Pyleak](https://github.com/deepankarm/pyleak) - detect leaks from asyncio-tasks and threads.
 * [Atlantis CRS](https://github.com/Team-Atlanta/aixcc-afc-atlantis) - "Cyber Reasoning System" (CRS) for automated security problems detection and patching in code.
+* [SnakeViz](https://github.com/jiffyclub/snakeviz/) - Profile Python-code in browser, w. various visualizations.
 
 
 ## Debug
