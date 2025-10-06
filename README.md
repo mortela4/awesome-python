@@ -1405,6 +1405,12 @@ AI-based code generators using simple prompts or even drawings.
 * [Sokrates](https://www.sokrates.dev/) - analyse and document complexity and composition of multi-language/heterogenous projects (e.g. Firefox, Linux, and generally LARGE projects).
 
 
+## Misc Tools
+
+* [DevTools](https://github.com/samuelcolvin/python-devtools) - Collection of isc. utilities esp. for debug (pretty-print nested data-structures etc.).
+
+
+
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
