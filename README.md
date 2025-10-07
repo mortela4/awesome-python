@@ -126,6 +126,7 @@ Covers AI, including neural networks and LLMs.
 ### LLMs
 * [LangExtract](https://github.com/google/langextract) - extract document (e.g. notes, reports) essentials *without* changing document text!
 * [MiniCPM](https://github.com/OpenBMB/MiniCPM) - opensource LLM for resource-constrained use (i.e. edge/embedded). Training data < 1/millionth of them really large models!
+* [Muna](https://github.com/muna-ai/muna-py) - compile LLM model in Python to native (C++) and run 'anywhere'.
 
 ### AI Agents
 * [DendriteSystems](https://github.com/dendrite-systems) - Tools for making AI agents easily (agents for interacting w. websites).
