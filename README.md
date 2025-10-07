@@ -1254,6 +1254,9 @@ Metaprogramming, templating and 'higher-order' functions.
 ### Visualization and Plotting
 * [Detroit](https://github.com/bourbonut/detroit) - Python implementation of 'D3js' graphing/plotting library.
 
+### WebAssembly
+* [WASMER](https://wasmer.io/) - Compile Python to WebAssembly and run 'anywhere' (e.g. on Edge-devices as native code, or on desktop, or in cloud etc.)
+
 
 ## WebSocket
 
