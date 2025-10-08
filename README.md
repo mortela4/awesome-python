@@ -904,6 +904,8 @@ Metaprogramming, templating and 'higher-order' functions.
 * [delegator.py](https://github.com/amitt001/delegator.py) - [Subprocesses](https://docs.python.org/3/library/subprocess.html) for Humans 2.0.
 * [sarge](https://sarge.readthedocs.io/en/latest/) - Yet another wrapper for subprocess.
 * [sh](https://github.com/amoffat/sh) - A full-fledged subprocess replacement for Python.
+* [SubprocessLib](https://gitlab.com/chwitlabs/subprocesslib) - Simplified use of 'subprocess' module (i.e. this is a wrapper-module to 'subprocess').
+
 
 ## Recommender Systems
 
@@ -1248,6 +1250,10 @@ Metaprogramming, templating and 'higher-order' functions.
     * [masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 * Asynchronous
     * [tornado](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
+
+### FastAPI and add-ons
+* [FastAPI-radar](https://github.com/doganarif/fastapi-radar) - Dashboard for FastAPI-metrics and -status.
+* [Air](https://github.com/feldroy/air) - Framework built on top of FastAPI.
 
 
 ## Web Frontend-dev
