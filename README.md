@@ -98,6 +98,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [WSGI Servers](#wsgi-servers)
 - [MicroPython](#micropython)
     - [uPy-Libraries](#upy-libraries)
+    - [uPy-Ports](#upy-ports)
 - [Resources](#resources)
     - [Cheatsheets](#cheatsheets)
     - [Example Code](#example-code)
@@ -1292,6 +1293,8 @@ Metaprogramming, templating and 'higher-order' functions.
 * [Centauri](https://github.com/TimHanewich/centauri) - Multi-MCU UAV firmware written mostly in uPy.
 * [JonNordby emLearn&uPy](https://github.com/jonnor) - emLearn = ML on MCUs.
 
+### uPy-Ports
+* [upyOS](https://github.com/rbenrax/upyOS) - uPy-based 'POSIX-compliant OS' on ESP32 and RP24xx.
 
 
 # Resources
