@@ -1295,6 +1295,11 @@ Metaprogramming, templating and 'higher-order' functions.
 
 ### uPy-Ports
 * [upyOS](https://github.com/rbenrax/upyOS) - uPy-based 'POSIX-compliant OS' on ESP32 and RP24xx.
+* [MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - uPy based 'desktop' OS, with an "AppStore" also, but only on ESP32 (so far).
+
+### uPy-Tools
+* [CircuitPython uploader](https://github.com/MakerClassCZ/circuitpython-uploader) - VSCode extension to upload libs&apps to CircuitPy-targets.
+
 
 
 # Resources
