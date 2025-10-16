@@ -954,7 +954,7 @@ Metaprogramming, templating and 'higher-order' functions.
 *Libraries for robotics.*
 
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
-* [rospy](http://wiki.ros.org/rospy) - This is a library for ROS (Robot Operating System).
+* [rospy](http://wiki.ros.org/rospy) - This is a library for ROS/ROS2 (Robot Operating System).
 
 ## RPC Servers
 
@@ -1239,6 +1239,7 @@ Metaprogramming, templating and 'higher-order' functions.
 * Traditional full stack web frameworks. Also see [RESTful API](https://github.com/vinta/awesome-python#restful-api).*
     * [Cement](https://github.com/datafolklabs/cement) - Actively developed framework since 2009(!), for CLI-apps and backend systems.
     * [ShopYo](https://shopyo.readthedocs.io/en/latest/) - "ShopYo" web-fwk, especially for E-Commerce.
+    * [Holm](https://volfpeter.github.io/holm/) - Another 'No JavaScript Required' (i.e. server-side rendering) framework.
 * Synchronous
     * [django](https://github.com/django/django) - The most popular web framework in Python.
         * [awesome-django](https://github.com/shahraizali/awesome-django)
