@@ -368,6 +368,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 * [optimus](https://github.com/hi-primus/optimus) - Agile Data Science Workflows made easy with PySpark.
 * [Frame-Search](https://github.com/williambdean/frame-search) - Search for data in dataframes ... easily! (in Jupyter-notebooks etc.)
+* [Glom](https://glom.readthedocs.io/en/latest/) - Restructure and search data(-structures).
 
 
 ## Data Validation
