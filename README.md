@@ -689,10 +689,18 @@ Libraries directly related to IoT (Internet-of-Things)
 
 *Libraries for programming with hardware.*
 
+### Input Devices
 * [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 * [mouse](https://github.com/boppreh/mouse) - Hook and simulate global mouse events on Windows and Linux.
 * [pynput](https://github.com/moses-palmer/pynput) - A library to control and monitor input devices.
 * [scapy](https://github.com/secdev/scapy) - A brilliant packet manipulation library.
+
+### Instrumentation and Measurement
+DAQ instrument control, and measurement visualization.
+* [Pymeasure](https://github.com/pymeasure) 
+* [Pymeasure](https://github.com/Exopy/exopy)
+* [Hardware-Control](https://bitbucket.org/berkeleylab/hardware-control/src/main/) - HW-drivers and measurement/control GUI widgets (in Qt5).
+
 
 ## Image Processing
 
@@ -1308,6 +1316,9 @@ Metaprogramming, templating and 'higher-order' functions.
 Where to discover learning resources or new Python libraries.
 See especially:
 * [LibHunt](https://libhunt.com) - find libs in 'any' language ...
+
+Also check out this overview of DAQ/instrument-control Python libraries specifically:
+* [Python Lab-automation Catalog](https://pymeasure.github.io/python-lab-automation-landscape/catalog/)
 
 
 ## Cheatsheets
