@@ -964,6 +964,10 @@ Metaprogramming, templating and 'higher-order' functions.
 
 * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - This is a compilation of various robotics algorithms with visualizations.
 * [rospy](http://wiki.ros.org/rospy) - This is a library for ROS/ROS2 (Robot Operating System).
+* [MUJOCO](https://mujoco.org/) - 3D Robotics Simulation.
+* [PyBullet](https://github.com/bulletphysics/bullet3) - Simple, but user-friendly Robotics Simulation.
+* [Webots](https://cyberbotics.com/) - Advanced, full-featured Robotics Simulation. 
+
 
 ## RPC Servers
 
@@ -1302,10 +1306,12 @@ Metaprogramming, templating and 'higher-order' functions.
 * [uPy-Collection](https://github.com/TimHanewich/MicroPython-Collection) - bunch of device-drivers etc. for uPy.
 * [Centauri](https://github.com/TimHanewich/centauri) - Multi-MCU UAV firmware written mostly in uPy.
 * [JonNordby emLearn&uPy](https://github.com/jonnor) - emLearn = ML on MCUs.
+* [MCL](https://github.com/semitov/SemiTOV-MCL) - MicropyCompatibilityLayer = use uPy (on MCU) from a 'desktop'-host(x86/ARM/RISC-V) running CPython.
 
 ### uPy-Ports
 * [upyOS](https://github.com/rbenrax/upyOS) - uPy-based 'POSIX-compliant OS' on ESP32 and RP24xx.
 * [MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - uPy based 'desktop' OS, with an "AppStore" also, but only on ESP32 (so far).
+* [PythingsOS](https://github.com/pythings/PythingsOS) - Program IoT devices (running uPy) directly from browser.
 
 ### uPy-Tools
 * [CircuitPython uploader](https://github.com/MakerClassCZ/circuitpython-uploader) - VSCode extension to upload libs&apps to CircuitPy-targets.
@@ -1335,6 +1341,7 @@ Also check out this overview of DAQ/instrument-control Python libraries specific
 * [AI-in-action](https://github.com/ed-donner/action) - Demo of 'Agentic AI' w. Python.
 * [System Architecting using AI](https://github.com/Alexanderdunlop/ai-architecture-prompts) - architecting webapps using AI.
 * [AgiBot](https://github.com/AgibotTech) - Complete control-SW code and infrastructure(e.g. simulators +++) for AGIBOT's "X1" humanoid robot.
+* [RoboticsPy](https://github.com/mdipietro09/RoboticsPy) - basic robot simulation w. PyBullet.
 
 
 ## Blogs
@@ -1342,6 +1349,7 @@ Also check out this overview of DAQ/instrument-control Python libraries specific
 * [KDNuggets](https://www.kdnuggets.com/news/index.html) - Mostly Py-related (but also Rust +++).
 * [CodeCut.ai](https://codecut.ai/blog/) - DataScience-focused Py-blog.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/) - Everything Python, from FastAPI/webdev to MicroPython!
+* [Simon Prickett](https://simonprickett.dev/) - Mostly uPy for IoT use.
 
 
 ## Tutorials
