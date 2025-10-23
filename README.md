@@ -1389,6 +1389,8 @@ Various development tools, not necessarily restricted to Python (e.g. GDB etc.).
 
 ### Webdev-testing
 * [Flower](https://github.com/mher/flower) - Control and monitor Celery-based browser testing.
+* [Requestly](https://github.com/requestly) - 'in-browser' (el. desktop-app) opensource alternative to Postman.
+
 
 ### Network-testing
 * [Ducky](https://github.com/thecmdguy/Ducky) - Telnet/SSH/Serial terminal, SNMP-scan +++
