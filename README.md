@@ -505,6 +505,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
     * [faust](https://github.com/robinhood/faust) - A stream processing library, porting the ideas from [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
     * [streamparse](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data via [Apache Storm](http://storm.apache.org/).
     * [AG2AI](https://github.com/ag2ai/faststream) - connect message queues easily.
+    * [PlugBoard](https://github.com/plugboard-dev/plugboard) - Connect distributed systems easily (pipe-IN/pipe-OUT style), can define steps and connections in YAML too.
 * Distributed Messaging and Publish-Subscribe
     * [Eclipse "eCAL"](https://eclipse-ecal.github.io/ecal/stable/index.html) - automotive-focused (part of EclipseSDV), secure pub-sub broker à la MQTT and ROS/DDS.
 * Modeling and Simulation of Distributed Systems
@@ -1449,7 +1450,7 @@ AI-based code generators using simple prompts or even drawings.
 ## Misc Tools
 
 * [DevTools](https://github.com/samuelcolvin/python-devtools) - Collection of isc. utilities esp. for debug (pretty-print nested data-structures etc.).
-
+* [T-Strings](https://github.com/t-strings) - Everything 'T-String' related (requires Python >= 3.14).
 
 
 # Contributing
