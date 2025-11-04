@@ -1382,6 +1382,11 @@ Also check out this overview of DAQ/instrument-control Python libraries specific
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
 
+## Online Books
+
+* [Async Python](https://www.i-programmer.info/programming/195-python/18418-programmers-python-async-shared-memory.html)
+
+
 # Tools
 
 Various development tools, not necessarily restricted to Python (e.g. GDB etc.).
@@ -1440,6 +1445,13 @@ AI-based code generators using simple prompts or even drawings.
 * [Free AI Chat](https://openrouter.ai/chat) - free access to AI-chat using most any LLM.
 * [Eye2AI](https://www.eye2.ai/) - chat with multiple AI-services in parallell, and compare results for convergence.
 * [Codex](https://github.com/openai/codex.git) - CLI tool for AI-assisted coding (using OpenAI/ChatGPT service).
+
+### Django-specific CodeGen
+
+* [App-Generator](https://app-generator.dev/tools/django-generator/) - One of the best! Very fine-grained config(select DB-type, frontend-type etc.etc.). Also Flask-generator!
+* [DjangoBuilder](https://djangobuilder.io) - Bothe a low-code/no-code tool. I.e. can import your data-model, then 'connect the dots'.
+* [WorKik](https://workik.com/django-code-generator) - This is more of a 'Django code-assistant', but has some ready-made templates.
+* [JIT.dev](https://jit.dev/django-code-generator) - Basically a frontend to LLM-prompts, but has example gallery from which you can re-use prompts.
 
 
 ## Documentation Tools
