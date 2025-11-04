@@ -107,6 +107,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Articles](#articles)
     - [Newsletters](#newsletters)
     - [Podcasts](#podcasts)
+    - [Online Books](#py-books)
 - [Tools](#tools)
     - [Testing](#testing) 
     - [Project Scaffolding](#project-setup) 
