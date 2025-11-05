@@ -1262,6 +1262,7 @@ Metaprogramming, templating and 'higher-order' functions.
         * [djHTMX](https://github.com/edelvalle/djhtmx) - UI components ('middleware') for Django-with-HTMX.
     * [flask](https://github.com/pallets/flask) - A microframework for Python.
         * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+        * [HyperFlask](https://github.com/hyperflask) - An 'all-in-one' FRONT&BACK-end webstack. "All batteries included"!
     * [pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
         * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
     * [masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
