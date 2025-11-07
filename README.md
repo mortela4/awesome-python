@@ -1025,6 +1025,8 @@ Metaprogramming, templating and 'higher-order' functions.
 * [elasticsearch-py](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html) - The official low-level Python client for [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 * [pysolr](https://github.com/django-haystack/pysolr) - A lightweight Python wrapper for [Apache Solr](https://lucene.apache.org/solr/).
 * [whoosh](http://whoosh.readthedocs.io/en/latest/) - A fast, pure Python search engine library.
+* [asq](https://github.com/sixty-north/asq) - "AdvancedSearch(and)Query", implements chained, LINQ-type queries on collections for Python.
+
 
 ## Serialization
 
