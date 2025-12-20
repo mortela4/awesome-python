@@ -1375,6 +1375,9 @@ Also check out this overview of DAQ/instrument-control Python libraries specific
 * [Sicara](https://github.com/sicara/dvc-streamlit-example) - Demo of 'DataVersioningControl' for AI/MLops.
 * [CoreElectronics](https://core-electronics.com.au/guides) - MicroPy HOWTOs and guides.
 
+## Courses
+* [Nvidia OpenUSD academy](https://github.com/NVIDIA-Omniverse/LearnOpenUSD) - AI on nVidia ('Omniverse' framework).
+
 
 ## Articles
 
@@ -1482,6 +1485,8 @@ AI-based code generators using simple prompts or even drawings.
 
 * [DevTools](https://github.com/samuelcolvin/python-devtools) - Collection of isc. utilities esp. for debug (pretty-print nested data-structures etc.).
 * [T-Strings](https://github.com/t-strings) - Everything 'T-String' related (requires Python >= 3.14).
+* [Browsr](https://github.com/juftin/browsr) - A browser in the terminal!
+* [CloudInit](https://cloudinit.readthedocs.io/en/latest/index.html) - Tool for runnin on-premise/private cloud.
 
 
 # Contributing
