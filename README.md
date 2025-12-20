@@ -13,7 +13,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Audio](#audio)
     - [Authentication](#authentication)
     - [Build Tools](#build-tools)
-    - [Built-in Classes Enhancement](#built-in-classes-enhancement)simul
+    - [Built-in Classes Enhancement](#built-in-classes-enhancement)
     - [Caching](#caching)
     - [ChatOps Tools](#chatops-tools)
     - [CMS](#cms)
@@ -737,6 +737,10 @@ DAQ instrument control, and measurement visualization.
 * [peachpy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 * [pypy](https://foss.heptapod.net/pypy/pypy) - A very fast and compliant implementation of the Python language.
 * [pyston](https://github.com/pyston/pyston/) - A Python implementation using JIT techniques.
+
+### Transpilers
+* [PytThoC](https://github.com/1flei/PythoC) - Generate 'C' code from Python.
+
 
 ## Interactive Interpreter
 
