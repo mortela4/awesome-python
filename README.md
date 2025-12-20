@@ -705,6 +705,8 @@ DAQ instrument control, and measurement visualization.
 * [Pymeasure](https://github.com/pymeasure) 
 * [Pymeasure](https://github.com/Exopy/exopy)
 * [Hardware-Control](https://bitbucket.org/berkeleylab/hardware-control/src/main/) - HW-drivers and measurement/control GUI widgets (in Qt5).
+* [HardPy](https://github.com/everypinio/hardpy) - Complete instrument-based test and DAQ system.
+* 
 
 
 ## Image Processing
