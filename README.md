@@ -355,6 +355,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [configobj](https://github.com/DiffSK/configobj) - INI file parser with validation.
 * [hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 * [python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
+* [Skelet](https://github.com/pomponchik/skelet) - One-stop lib for app-config solutions.
+
 
 ## Cryptography
 
