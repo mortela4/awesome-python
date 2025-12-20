@@ -1454,6 +1454,7 @@ AI-based code generators using simple prompts or even drawings.
 * [Eye2AI](https://www.eye2.ai/) - chat with multiple AI-services in parallell, and compare results for convergence.
 * [Codex](https://github.com/openai/codex.git) - CLI tool for AI-assisted coding (using OpenAI/ChatGPT service).
 * [CTOnew](https://cto.new/) - AI-coding leaning on most popular coding-specific models (GPT Codex, Claude Sonnet&Haiku, GLM, Gemini)
+* [Trae IDE](https://www.trae.ai/) - Complete AI-based IDE.
 
 
 ### Django-specific CodeGen
