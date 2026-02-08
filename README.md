@@ -581,6 +581,9 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 
 ### Embedded
 Libraries for embedded platforms, or edge-computing, but not using MicroPython.
+* [uPy-Mock-Machine](https://github.com/planetinnovation/micropython-mock-machine) - Test uPy code w/o actual HW. (Mocks 'machine' module for unit-testing purposes)
+* [ESP32-LVGL](https://github.com/kwinter745321/ESP32LVGL) - uPy-port of *LVGL* GUI-library on ESP32-platform(s).
+
 
 ### IoT
 Libraries directly related to IoT (Internet-of-Things) 
@@ -1487,6 +1490,12 @@ AI-based code generators using simple prompts or even drawings.
 * [T-Strings](https://github.com/t-strings) - Everything 'T-String' related (requires Python >= 3.14).
 * [Browsr](https://github.com/juftin/browsr) - A browser in the terminal!
 * [CloudInit](https://cloudinit.readthedocs.io/en/latest/index.html) - Tool for runnin on-premise/private cloud.
+
+
+## Security Tools
+
+* [Bandit](https://github.com/PyCQA/bandit) - Find security issues in Python code (incl. modules imported)
+
 
 
 # Contributing
