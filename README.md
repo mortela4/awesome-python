@@ -1046,7 +1046,7 @@ Metaprogramming, templating and 'higher-order' functions.
 
 *Libraries for serializing complex data types*
 
-* [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
+* [marshmallow](https://github.com/marshmal/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 * [pysimdjson](https://github.com/TkTech/pysimdjson) - A Python bindings for [simdjson](https://github.com/lemire/simdjson).
 * [python-rapidjson](https://github.com/python-rapidjson/python-rapidjson) - A Python wrapper around [RapidJSON](https://github.com/Tencent/rapidjson).
 * [ultrajson](https://github.com/esnme/ultrajson) - A fast JSON decoder and encoder written in C with Python bindings.
@@ -1469,6 +1469,9 @@ AI-based code generators using simple prompts or even drawings.
 * [Codex](https://github.com/openai/codex.git) - CLI tool for AI-assisted coding (using OpenAI/ChatGPT service).
 * [CTOnew](https://cto.new/) - AI-coding leaning on most popular coding-specific models (GPT Codex, Claude Sonnet&Haiku, GLM, Gemini)
 * [Trae IDE](https://www.trae.ai/) - Complete AI-based IDE.
+* [PythagorAI](https://www.pythagora.ai/) - Fullstack and frontend-dev using AI chat.
+* [Data-Formulator](https://github.com/microsoft/data-formulator) - Connect datasources, then let AI visualize them!(from Microsoft)
+
 
 
 ### Django-specific CodeGen
