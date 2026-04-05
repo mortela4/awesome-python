@@ -534,6 +534,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [sphinx](https://github.com/sphinx-doc/sphinx/) - Python Documentation generator.
     * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 * [pdoc](https://github.com/mitmproxy/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
+* [OpenDocs](https://github.com/ioteverythin/OpenDocs) - Autogenerate docs from GitHub-repo (various formats).
 
 ## Downloader
 
