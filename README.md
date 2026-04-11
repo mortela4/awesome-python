@@ -455,6 +455,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * Tracing
     * [manhole](https://github.com/ionelmc/python-manhole) - Debugging UNIX socket connections and present the stacktraces for all threads and an interactive prompt.
     * [python-hunter](https://github.com/ionelmc/python-hunter) - A flexible code tracing toolkit.
+    * [OracleTrace](https://github.com/KaykCaputo/oracletrace) - Visualize and time function-call trace.
 * Profiler
     * [py-spy](https://github.com/benfred/py-spy) - A sampling profiler for Python programs. Written in Rust.
     * [vprof](https://github.com/nvdv/vprof) - Visual Python profiler.
