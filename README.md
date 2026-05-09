@@ -1504,6 +1504,11 @@ AI-based code generators using simple prompts or even drawings.
 * [Bandit](https://github.com/PyCQA/bandit) - Find security issues in Python code (incl. modules imported)
 
 
+## Version Control
+
+* [PyGit2](https://github.com/libgit2/pygit2) - Python interface to LibGit2.
+* [GitPython](https://github.com/gitpython-developers/gitpython) - The 'de facto' Py-interface to Git (at 'user level').
+
 
 # Contributing
 
