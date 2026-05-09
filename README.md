@@ -330,6 +330,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
     * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     * [tmuxp](https://github.com/tmux-python/tmuxp) - A [tmux](https://github.com/tmux/tmux) session manager.
     * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
+    * [PrettyTable](https://github.com/prettytable/prettytable) - create nice ASCII-tables.
 * CLI Enhancements
     * [httpie](https://github.com/httpie/cli) - A command line HTTP client, a user-friendly cURL replacement.
     * [iredis](https://github.com/laixintao/iredis) - Redis CLI with autocompletion and syntax highlighting.
@@ -585,7 +586,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 Libraries for embedded platforms, or edge-computing, but not using MicroPython.
 * [uPy-Mock-Machine](https://github.com/planetinnovation/micropython-mock-machine) - Test uPy code w/o actual HW. (Mocks 'machine' module for unit-testing purposes)
 * [ESP32-LVGL](https://github.com/kwinter745321/ESP32LVGL) - uPy-port of *LVGL* GUI-library on ESP32-platform(s).
-
+* [QuecPython](https://github.com/quecpython) - Python on Quectel cellullar modems.
 
 ### IoT
 Libraries directly related to IoT (Internet-of-Things) 
@@ -713,7 +714,6 @@ DAQ instrument control, and measurement visualization.
 * [Pymeasure](https://github.com/Exopy/exopy)
 * [Hardware-Control](https://bitbucket.org/berkeleylab/hardware-control/src/main/) - HW-drivers and measurement/control GUI widgets (in Qt5).
 * [HardPy](https://github.com/everypinio/hardpy) - Complete instrument-based test and DAQ system.
-* 
 
 
 ## Image Processing
@@ -744,6 +744,8 @@ DAQ instrument control, and measurement visualization.
 * [peachpy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 * [pypy](https://foss.heptapod.net/pypy/pypy) - A very fast and compliant implementation of the Python language.
 * [pyston](https://github.com/pyston/pyston/) - A Python implementation using JIT techniques.
+* [SpyLang](https://github.com/spylang/spy) - statically compilable Python, implemented in Python
+
 
 ### Transpilers
 * [PytThoC](https://github.com/1flei/PythoC) - Generate 'C' code from Python.
