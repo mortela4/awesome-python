@@ -988,7 +988,8 @@ Metaprogramming, templating and 'higher-order' functions.
 * [rospy](http://wiki.ros.org/rospy) - This is a library for ROS/ROS2 (Robot Operating System).
 * [MUJOCO](https://mujoco.org/) - 3D Robotics Simulation.
 * [PyBullet](https://github.com/bulletphysics/bullet3) - Simple, but user-friendly Robotics Simulation.
-* [Webots](https://cyberbotics.com/) - Advanced, full-featured Robotics Simulation. 
+* [Webots](https://cyberbotics.com/) - Advanced, full-featured Robotics Simulation.
+* [AutoGenerateParams](https://github.com/PickNikRobotics/generate_parameter_library) - autogenerate ROS2 parameters in Py or C++.
 
 
 ## RPC Servers
