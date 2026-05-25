@@ -643,6 +643,8 @@ Libraries directly related to IoT (Internet-of-Things)
 * [urwid](http://urwid.org/) - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 * [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
 * [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
+* [PyWry](https://github.com/deeleeramone/PyWry) - webrendred GUIs, fast ...
+
 
 ## GraphQL
 
@@ -1475,7 +1477,7 @@ AI-based code generators using simple prompts or even drawings.
 * [Trae IDE](https://www.trae.ai/) - Complete AI-based IDE.
 * [PythagorAI](https://www.pythagora.ai/) - Fullstack and frontend-dev using AI chat.
 * [Data-Formulator](https://github.com/microsoft/data-formulator) - Connect datasources, then let AI visualize them!(from Microsoft)
-
+* [Understand-Anything](https://github.com/Lum1104/Understand-Anything) - ClaudeCode-plugin that analyses and explains (large) codesets, with graphics too!
 
 
 ### Django-specific CodeGen
