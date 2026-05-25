@@ -357,6 +357,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 * [python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
 * [Skelet](https://github.com/pomponchik/skelet) - One-stop lib for app-config solutions.
+* [PickleDB](https://harrisonerd.com/pickledb) - KeyValue-database w. JSON-file storage.
+* [TinyKV](https://github.com/flaviovs/tinykv) - minimalistic KV-database (prefer PickleDB ...)
 
 
 ## Cryptography
