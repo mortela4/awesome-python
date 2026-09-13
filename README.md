@@ -1346,6 +1346,7 @@ Metaprogramming, templating and 'higher-order' functions.
 * [upyOS](https://github.com/rbenrax/upyOS) - uPy-based 'POSIX-compliant OS' on ESP32 and RP24xx.
 * [MicroPythonOS](https://github.com/MicroPythonOS/MicroPythonOS) - uPy based 'desktop' OS, with an "AppStore" also, but only on ESP32 (so far).
 * [PythingsOS](https://github.com/pythings/PythingsOS) - Program IoT devices (running uPy) directly from browser.
+* [MicroPy-WASM](https://github.com/simonw/micropython-wasm) - run uPy apps in browser or Py-sandbox.
 
 ### uPy-Tools
 * [CircuitPython uploader](https://github.com/MakerClassCZ/circuitpython-uploader) - VSCode extension to upload libs&apps to CircuitPy-targets.
