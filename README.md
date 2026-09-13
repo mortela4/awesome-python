@@ -25,7 +25,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Cryptography](#cryptography)
     - [Data Analysis](#data-analysis)
     - [Data Validation](#data-validation)
-    - [Data Visualization](#data-visualization)
+    - [Data Visualization and Plotting / Charting](#data-visualization)
     - [Database Drivers](#database-drivers)
     - [Database](#database)
     - [Date and Time](#date-and-time)
@@ -391,7 +391,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library.
 * [pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
 
-## Data Visualization
+## Data Visualization and Plotting / Charting
 
 *Libraries for visualizing data. Also see [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
 
@@ -407,6 +407,8 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 * [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib.
 * [vispy](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
+* [XY](https://github.com/reflex-dev/xy) - plot HUGE datasets on the web, FAST.
+* [cnsplots](https://github.com/faridrashidi/cnsplots) - Publication-Ready Scientific Plots for Cell, Nature, and Science Journals.
 
 ## Database
 
