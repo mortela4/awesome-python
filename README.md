@@ -163,6 +163,9 @@ Covers AI, including neural networks and LLMs.
     * [pypattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
     * [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
     * [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
+* OOP
+    * [BOC](https://github.com/microsoft/bocpy) - 'Behaviour-Oriented-Concurrency in Python: removes need for locks in concurrency.
+
 
 ## ASGI Servers
 
@@ -187,7 +190,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
 * [gevent](https://github.com/gevent/gevent) - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet).
 * [TinyIO](https://github.com/patrick-kidger/tinyio) - dead simple AsyncIO event-loop.
 * [Wowen](https://github.com/curvedinf/wove) - beautiful async ...
-* 
+* [BOC](https://github.com/microsoft/bocpy) - 'Behaviour-Oriented-Concurrency in Python: removes need for locks in concurrency.
 
 
 ## Audio
