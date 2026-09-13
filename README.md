@@ -25,7 +25,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Cryptography](#cryptography)
     - [Data Analysis](#data-analysis)
     - [Data Validation](#data-validation)
-    - [Data Visualization and Plotting / Charting](#data-visualization)
+    - [Data Visualization and Plotting / Charting](#data-visualization-and-plotting-charting)
     - [Database Drivers](#database-drivers)
     - [Database](#database)
     - [Date and Time](#date-and-time)
