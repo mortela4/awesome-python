@@ -997,6 +997,7 @@ Metaprogramming, templating and 'higher-order' functions.
 * [PyBullet](https://github.com/bulletphysics/bullet3) - Simple, but user-friendly Robotics Simulation.
 * [Webots](https://cyberbotics.com/) - Advanced, full-featured Robotics Simulation.
 * [AutoGenerateParams](https://github.com/PickNikRobotics/generate_parameter_library) - autogenerate ROS2 parameters in Py or C++.
+* [RoSys](https://rosys.io/) - ROS-replacement in Python, built on 'asyncio'.
 
 
 ## RPC Servers
