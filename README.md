@@ -132,6 +132,8 @@ Covers AI, including neural networks and LLMs.
 
 ### AI Agents
 * [DendriteSystems](https://github.com/dendrite-systems) - Tools for making AI agents easily (agents for interacting w. websites).
+* [AI-powered presentations]https://github.com/pamelafox/ai-powered-presentation-workflow)
+* [Devon](https://github.com/entropy-research/Devon) - AI pair-programmer
 
 
 ### Neural Networks
@@ -652,6 +654,7 @@ Libraries directly related to IoT (Internet-of-Things)
 * [wxPython](https://wxpython.org/) - A blending of the wxWidgets C++ class library with the Python.
 * [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 * [PyWry](https://github.com/deeleeramone/PyWry) - webrendred GUIs, fast ...
+* [Flet-apps](https://github.com/FeodorFitsner) - Lots of Flet demo-apps etc.
 
 
 ## GraphQL
