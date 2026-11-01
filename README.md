@@ -522,6 +522,7 @@ Libraries for asynchronous, concurrent and parallel execution. Also see [awesome
     * [PlugBoard](https://github.com/plugboard-dev/plugboard) - Connect distributed systems easily (pipe-IN/pipe-OUT style), can define steps and connections in YAML too.
 * Distributed Messaging and Publish-Subscribe
     * [Eclipse "eCAL"](https://eclipse-ecal.github.io/ecal/stable/index.html) - automotive-focused (part of EclipseSDV), secure pub-sub broker à la MQTT and ROS/DDS.
+    * [OpenSOME/IP](https://github.com/vtz) - Open implementation of SOME/IP protocol for IPC on resource-constrained platforms.
 * Modeling and Simulation of Distributed Systems
     * [AsyncFlow](https://github.com/AsyncFlow-Sim/AsyncFlow) - model and simulate complete, distributed back-end systems. 
 
