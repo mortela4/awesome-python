@@ -1390,6 +1390,7 @@ Also check out this overview of DAQ/instrument-control Python libraries specific
 * [CodeCut.ai](https://codecut.ai/blog/) - DataScience-focused Py-blog.
 * [Miguel Grinberg](https://blog.miguelgrinberg.com/) - Everything Python, from FastAPI/webdev to MicroPython!
 * [Simon Prickett](https://simonprickett.dev/) - Mostly uPy for IoT use.
+* [Peyton Green](https://dev.to/peytongreen_dev/) - Python testing, AI and LLMs. 
 
 
 ## Tutorials
